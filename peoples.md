@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /peoples/
-title: Peoples
+permalink: /people/
+title: People
 ---
 
 ###  PI
